@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/KarBo/static/css/main.e585a931.css",
+    "main.js": "/KarBo/static/js/main.92912be4.js",
+    "static/js/787.329a8ef8.chunk.js": "/KarBo/static/js/787.329a8ef8.chunk.js",
+    "index.html": "/KarBo/index.html",
+    "main.e585a931.css.map": "/KarBo/static/css/main.e585a931.css.map",
+    "main.92912be4.js.map": "/KarBo/static/js/main.92912be4.js.map",
+    "787.329a8ef8.chunk.js.map": "/KarBo/static/js/787.329a8ef8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e585a931.css",
+    "static/js/main.92912be4.js"
+  ]
+}
